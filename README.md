@@ -7,5 +7,5 @@
 
 
 ---
-
+**This project is build completely using Tailwind CSS.**
 **I made this landing page all on my own I only took inspiration from brad's video.**
