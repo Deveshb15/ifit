@@ -6,6 +6,7 @@
 #### I got inspiration for this project from Traversy Brad and I made use of Tailwind starter pack by Creative Tim.
 
 
+## Checkout the website 👉 [iFIT](https://deveshb15.github.io/ifit/ "website")
 ---
 **This project is build completely using Tailwind CSS.**
 
